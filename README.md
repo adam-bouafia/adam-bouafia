@@ -1,22 +1,22 @@
 ![ViewCount](https://views.whatilearened.today/views/github/sachinchaturvedi93/sachinchaturvedi93.svg?cache=remove)
 ![License](https://img.shields.io/github/license/sachinchaturvedi93/sachinchaturvedi93?style=flat)
+[![HitCount](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode.svg)](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode) 
+
 # Adam Bouafia &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-
-    &nbsp; [![HitCount](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode.svg)](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode) 
-
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <p>
-  <em>
-    I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and technology</b>, Kattankulatur</a>.  
-    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
-  </em>  
+<em>
+  I'm a <b>Software Engineer</b>/<b>DevOps Enthusiast</b>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+  
+  - Currently in my second year of a Master's degree in <a href="https://vu.nl/en"> <b>Global Software Engineering (GSEEM)</b> at Vrije Universiteit Amsterdam</a>, specializing in <b>Software Engineering</b> and <b>Green IT</b>.
+  
+  - Passionate about <b>DevOps Engineering</b>, I'm focused on blending <b>sustainability</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Green_Heart.gif" width="18px"> with software development, constantly seeking opportunities to make a <b>meaningful impact</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> in the technology field.
+</em>
+
 </p>
 
 
@@ -26,15 +26,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adam.bouafia.911@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/adam.bouafia)
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/adams911)
-
-&nbsp;
-## I'm a Software Engineer/Devops Enthusiast!
-
-  - I am currently in my second year of a Master's degree in Global Software Engineering (GSEEM) at Vrije Universiteit Amsterdam, specializing in Software Engineering and Green IT. 
-  
-  
-  - As I continue my academic and professional journey, I am actively focusing on DevOps Engineering, combining my passion for software development with sustainability, and constantly seeking opportunities to make a meaningful impact in the technology field.
-<br />
 
 
 ### Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
