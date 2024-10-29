@@ -13,7 +13,6 @@
   
   - Passionate about <b>DevOps Engineering</b>, I'm focused on blending <b>sustainability</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="18px"> with software development, constantly seeking opportunities to make a <b>meaningful impact</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> in the technology field.
 </em>
-https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif
 </p>
 
 
