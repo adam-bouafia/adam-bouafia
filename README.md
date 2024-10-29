@@ -48,7 +48,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam-bouafia&hide=jupyter%20notebook,HTML,HCL&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam-bouafia&hide=jupyter%20notebook,HTML,HCL&show_icons=true&layout=compact&hide_border=true)](https://github.com/adam-bouafia/github-readme-stats)
 
 
 </p>
