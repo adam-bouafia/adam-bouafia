@@ -58,7 +58,8 @@ https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.
 </p>
 
 
-### Game Time:
+### ***What time is it? It's Game Time!***
+
 <br>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 <br>
