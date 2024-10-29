@@ -64,11 +64,14 @@ https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.
 
 <a name="top"></a>
 I challenge you to a game of Tic-Tac-Toe. 
+
 Give this page a few seconds to load all the emojis and then click the topmost box to start playing.
 
 Xs go first, click one of the nine boxes to make your move.
 
-_If for some reason the buttons are not clickable, try reloading the page. Sometimes GitHub can't handle all of the emojis._
+_If for some reason the buttons are not clickable, try reloading the page.
+
+Sometimes GitHub can't handle all of the emojis._
 
 [Take me to the bottom](#bottom)
 
