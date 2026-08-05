@@ -25,7 +25,9 @@
 
 
 ### Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=adams911&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=adams911&redirect=true)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=adams911&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=adams911&redirect=true)
+
 
 ### Languages and Tools:
 
