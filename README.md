@@ -51,7 +51,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam-bouafia&hide=jupyter%20notebook,HTML,HCL&show_icons=true&layout=compact&hide_border=true)](https://github.com/adam-bouafia/github-readme-stats)
 
 
-</p>
+<!-- </p>
 
 
 ### ***What time is it? It's Game Time!***
@@ -1984,4 +1984,4 @@ Sometimes GitHub can't handle all of the emojis._
 ---
 
 <a name="bottom"></a>
-[Take me to the top](#top)
+[Take me to the top](#top) -->
