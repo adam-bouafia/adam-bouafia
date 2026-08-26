@@ -1,4 +1,4 @@
-![ViewCount](https://views.whatilearened.today/views/github/sachinchaturvedi93/sachinchaturvedi93.svg?cache=remove) [![HitCount](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode.svg)](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode) ![License](https://img.shields.io/github/license/sachinchaturvedi93/sachinchaturvedi93?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/adam-bouafia/adam-bouafia.svg?cache=remove) [![HitCount](http://hits.dwyl.com/adam-bouafia/adam-bouafia.svg)](http://hits.dwyl.com/adam-bouafia/adam-bouafia)
 # Adam Bouafia &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
@@ -7,19 +7,24 @@
 
 <p>
 <em>
-  I'm a <b>Software Engineer</b>/<b>DevOps Enthusiast</b>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+  I'm a <b>Cloud &amp; DevOps Engineer</b>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
   
-  - Currently in my second year of a Master's degree in <a href="https://vu.nl/en"> <b>Global Software Engineering (GSEEM)</b> at Vrije Universiteit Amsterdam</a>, specializing in <b>Software Engineering</b> and <b>Green IT</b>.
+  - <b>MSc in Computer Science</b> (double degree, <a href="https://vu.nl/en">Vrije Universiteit Amsterdam</a> &amp; Università dell'Aquila), specialising in <b>Software Engineering</b> and <b>Green IT</b>.
   
-  - Passionate about <b>DevOps Engineering</b>, I'm focused on blending <b>sustainability</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="18px"> with software development, constantly seeking opportunities to make a <b>meaningful impact</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> in the technology field.
+  - I work with <b>Azure</b>, <b>Kubernetes</b> and <b>CI/CD</b>, building production infrastructure as code with <b>Bicep</b>, <b>Azure DevOps</b> and <b>GitHub Actions</b>.
+  
+  - Currently working through the <b>Linux Foundation Advanced Cloud Engineer</b> program and preparing for the <b>CKA</b>.
+  
+  - I build tools where <b>DevOps</b> meets <b>sustainability</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="18px">: <b>Greenmining</b> (PyPI), <b>CO2 Consumption Monitor</b> (GNOME) and <b>LCT</b>. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
 </em>
 </p>
 
 
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-3C6EB4?style=flat&logo=Firefox&logoColor=white)](https://adam-bouafia.github.io)
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/adam-bouafia)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adam-bouafia-b597ab86)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adam.bouafia.911@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/adam-bouafia/)
+[![Email](https://img.shields.io/badge/-Email-0078D4?style=flat)](mailto:adam.bouafia@outlook.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/adam.bouafia)
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/adams911)
 
