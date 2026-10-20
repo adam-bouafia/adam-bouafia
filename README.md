@@ -37,11 +37,10 @@
 
 
 ### Languages and Tools:
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam-bouafia&hide=jupyter%20notebook,HTML,HCL&show_icons=true&layout=compact&hide_border=true)](https://github.com/adam-bouafia/github-readme-stats)
+
+<p>
     <img width="55%" align="right" alt="Adam's github stats" src="https://github-readme-stats.vercel.app/api?username=adam-bouafia&show_icons=true&hide_border=true"/>
   
-<p>
-
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
@@ -58,6 +57,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam-bouafia&hide=jupyter%20notebook,HTML,HCL&show_icons=true&layout=compact&hide_border=true)](https://github.com/adam-bouafia/github-readme-stats)
 
 
 </p>
