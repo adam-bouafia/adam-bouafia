@@ -1,5 +1,4 @@
-![ViewCount](https://views.whatilearened.today/views/github/adam-bouafia/adam-bouafia.svg?cache=remove) [![HitCount](http://hits.dwyl.com/adam-bouafia/adam-bouafia.svg)](http://hits.dwyl.com/adam-bouafia/adam-bouafia)![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/devops-resources?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/devops-resources?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/adam-bouafia/adam-bouafia.svg?cache=remove) [![HitCount](http://hits.dwyl.com/adam-bouafia/adam-bouafia.svg)](http://hits.dwyl.com/adam-bouafia/adam-bouafia)
 # Adam Bouafia &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="31px">
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
@@ -34,13 +33,12 @@
 
 ### What I'm Listening To <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
 
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=adams911&theme=spotify&width=380&radius=30&duration=1&album=1)
+[![spotify-recently-played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=adams911&count=10&duration=1&album=1)](https://open.spotify.com/user/adams911)
 
 
 ### Languages and Tools:
 
 <p>
-
     <img width="55%" align="right" alt="Adam's github stats" src="https://github-readme-stats.vercel.app/api?username=adam-bouafia&show_icons=true&hide_border=true"/>
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -58,8 +56,8 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam-bouafia&hide=jupyter%20notebook,HTML,HCL&show_icons=true&layout=compact&hide_border=true)](https://github.com/adam-bouafia/github-readme-stats)
-
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam-bouafia&hide=jupyter%20notebook,HTML,HCL&show_icons=true&layout=compact&hide_border=true)](https://github.com/adam-bouafia/github-readme-stats)
 
 
 </p>
