@@ -13,9 +13,11 @@
   
   - I work with <b>Azure</b>, <b>Kubernetes</b> and <b>CI/CD</b>, building production infrastructure as code with <b>Bicep</b>, <b>Azure DevOps</b> and <b>GitHub Actions</b>.
   
-  - Currently working through the <b>Linux Foundation Advanced Cloud Engineer</b> program and preparing for the <b>CKA</b>.
+  - Completed the <b>Linux Foundation Advanced Cloud Engineer</b> coursework and preparing for the <b>CKA</b> exam.
   
   - I build tools where <b>DevOps</b> meets <b>sustainability</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="18px">: <b>Greenmining</b> (PyPI), <b>CO2 Consumption Monitor</b> (GNOME) and <b>LCT</b>. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
+  
+  - I also build <b>AI agents</b>: <b>repo-sentinel</b> runs on the Claude Agent SDK to audit GitHub repos (failing CI, outdated dependencies, upstream drift) and opens guarded, human-approved fix PRs on its own.
 </em>
 </p>
 
@@ -24,14 +26,14 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-3C6EB4?style=flat&logo=Firefox&logoColor=white)](https://adam-bouafia.github.io)
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/adam-bouafia)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/adam-bouafia/)
-[![Email](https://img.shields.io/badge/-Email-0078D4?style=flat)](mailto:adam.bouafia@outlook.com)
+[![Email](https://img.shields.io/badge/-Email-0078D4?style=flat)](mailto:adam.bouafia@hotmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/adam.bouafia)
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/adams911)
 
 
-### Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
+### What I'm Listening To <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=adams911&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=adams911&redirect=true)
+[![spotify-recently-played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=adams911&theme=dark&count=4)](https://open.spotify.com/user/adams911)
 
 
 ### Languages and Tools:
