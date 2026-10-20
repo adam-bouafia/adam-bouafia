@@ -1,5 +1,5 @@
-![ViewCount](https://views.whatilearened.today/views/github/adam-bouafia/adam-bouafia.svg?cache=remove) [![HitCount](http://hits.dwyl.com/adam-bouafia/adam-bouafia.svg)](http://hits.dwyl.com/adam-bouafia/adam-bouafia)![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/devops-resources?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/devops-resources?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/adam-bouafia/adam-bouafia.svg?cache=remove) [![HitCount](http://hits.dwyl.com/adam-bouafia/adam-bouafia.svg)](http://hits.dwyl.com/adam-bouafia/adam-bouafia)![GitHub top language](https://img.shields.io/github/languages/top/adam-bouafia/devops-resources?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/adam-bouafia/devops-resources?style=flat)
 # Adam Bouafia &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="31px">
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
