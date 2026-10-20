@@ -34,7 +34,7 @@
 
 ### What I'm Listening To <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
 
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=adams911&theme=spotify&count=10&duration=1&album=1&footer=wave)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=adams911&theme=spotify&width=380&radius=30&duration=1&album=1)
 
 
 ### Languages and Tools:
