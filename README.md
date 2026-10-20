@@ -26,8 +26,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/adam-bouafia/)
 [![Email](https://img.shields.io/badge/-Email-0078D4?style=flat)](mailto:adam.bouafia@outlook.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/adam.bouafia)
-[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/adams911)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=adams911&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=adams911&redirect=true)
 
 ### Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
 
